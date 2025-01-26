@@ -1,0 +1,11 @@
+Name: Aditya Mallakula
+
+Email: mallakula.2@wright.edu
+
+Pre-requisite: Data Structures through c++
+
+Institution: JNTU Hyderabad, India
+
+Text book: Data Structures and Algorithm Analysis in C++, Pearson Education Ltd; 2nd edition
+
+Author: Mark Allen Weiss

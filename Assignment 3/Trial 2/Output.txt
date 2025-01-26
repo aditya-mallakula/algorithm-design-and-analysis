@@ -1,0 +1,3 @@
+Interleaving exists: True, Count of interleavings: 3
+s1 substrings: aa, b, cc
+s2 substrings: d, bb, c, a

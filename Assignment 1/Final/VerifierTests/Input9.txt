@@ -1,0 +1,7 @@
+3
+Albert Diane Emily Fergie
+Bradley Emily Fergie Diane
+Charles Fergie Emily Diane
+Diane Bradley Charles Albert
+Emily Albert Bradley Charles
+Fergie Charles Bradley Albert
